@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ankithchowdary" alt="ankithchowdary" /></a> </p>
 
-- 🔭 I’m currently working on **Music recommendation**
+- 🔭 I’m currently working on **Music recommendation project**
 
 - 🌱 I’m currently learning **Java Script & Java**
 
