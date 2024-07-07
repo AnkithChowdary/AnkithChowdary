@@ -9,7 +9,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Music recommendation project**
+<--- 🔭 I’m currently working on **Music recommendation project**-->
 - 🌱 I’m currently learning **JavaScript & Java**
 - 💬 Ask me about **C & C++**
 - 📫 How to reach me **ankithc29@gmail.com**
