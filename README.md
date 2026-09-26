@@ -30,7 +30,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=arduino,c,cpp,html,css,js,java,mysql" alt="skills" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,java,mysql" alt="skills" />
   </a>
 </p>
 
