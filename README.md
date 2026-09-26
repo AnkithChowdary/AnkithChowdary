@@ -35,10 +35,7 @@
 </p>
 
 <h3 align="left">GitHub Stats:</h3>
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ankithchowdary&show_icons=true&theme=tokyonight&count_private=true" alt="ankithchowdary stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankithchowdary&layout=compact&theme=tokyonight" alt="ankithchowdary top langs" />
-</p>
+
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=ankithchowdary&theme=tokyonight" alt="ankithchowdary streak stats" />
