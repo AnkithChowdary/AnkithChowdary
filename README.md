@@ -14,7 +14,7 @@
 - 🌱 I'm currently learning **JavaScript & Java**
 - 💬 Ask me about **C & C++**
 - 🏆 Practicing on **CodeChef, HackerRank & LeetCode**
-- 📫 How to reach me: **ankithc29@gmail.com**
+- 📫 How to reach me: **ankithchowdary25@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -22,7 +22,7 @@
   <a href="mailto:ankithc29@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
   <a href="https://www.codechef.com/users/ankithchowdary" target="blank"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
   <a href="https://www.hackerrank.com/profile/KLU_2300030038" target="blank"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
-  <a href="https://www.leetcode.com/klu2300030038" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://www.leetcode.com/Ankith925" target="blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
